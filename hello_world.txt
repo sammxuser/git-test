@@ -1,1 +1,1 @@
-Hello world, this is the Odin Project!git 
+Hello world, this is the Odin Project!
